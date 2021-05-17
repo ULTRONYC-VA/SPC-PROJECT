@@ -10,9 +10,7 @@ VAIBHAV MANE		VA
 -----------------------------------------------------------
 
 */
-feature/#6
-testing changes done
-=======
+
 CREATE TABLE EMPLOYEE
 (	
 	E_ID INT
@@ -23,4 +21,4 @@ CREATE TABLE EMPLOYEE
 	,D_ID INT
 )
 
- development
+ALL RECORDS ADDED SUCCESSFULL DONE
