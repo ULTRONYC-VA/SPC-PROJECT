@@ -25,3 +25,12 @@ VALUES
 (
 20,'IT'
 )
+
+
+create table t2(t int)
+
+
+
+
+
+
